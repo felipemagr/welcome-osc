@@ -1,2 +1,2 @@
 # welcome-osc
-https://github.com/m1el/woscope
+https://github.com/jameshball/osci-render
